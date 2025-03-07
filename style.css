@@ -30,13 +30,16 @@ h1 {
     line-height: 140%;
     letter-spacing: 0.25px;
 }
-
+header p{
+    margin-bottom: 74px;
+}
 h2 {
     font-size: 36px;
     color: #4D4F62;
     font-weight: 600;
     line-height: 140%;
     margin: 10px 0;
+    margin-bottom: 16px;
 }
 
 p {
